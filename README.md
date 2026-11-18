@@ -24,7 +24,6 @@ Ubicación:   Ciudad Mante, Tamaulipas 🇲🇽
 
 ```
 
-> *"Un bug es solo un jefe final que aún no he derrotado."* 🗡️
 
 ---
 
@@ -35,7 +34,7 @@ Ubicación:   Ciudad Mante, Tamaulipas 🇲🇽
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
