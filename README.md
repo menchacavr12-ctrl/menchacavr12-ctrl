@@ -1,7 +1,7 @@
 <!-- ═══════════ BANNER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Alejandro%20Menchaca&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Developer%20%7C%20Gamer%20%7C%20Anime%20Lover%20✨&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Alejandro%20MEmiliano&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Developer%20%7C%20Gamer%20%7C%20Anime%20Lover%20✨&descAlignY=58&descSize=18" />
 
 <!-- Texto animado -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=¡Konnichiwa!+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧;Soy+Alejandro+Emiliano+Nuñez+Menchaca;Programando+un+nivel+más+cada+día+⚔️;Java+%7C+C%23+%7C+Lua" alt="Typing SVG" />
