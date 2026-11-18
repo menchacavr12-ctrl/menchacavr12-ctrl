@@ -1,7 +1,7 @@
 <!-- ═══════════ BANNER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Alejandro%20MEmiliano&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Developer%20%7C%20Gamer%20%7C%20Anime%20Lover%20✨&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Alejandro%20Emiliano&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=" />
 
 <!-- Texto animado -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=¡Konnichiwa!+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧;Soy+Alejandro+Emiliano+Nuñez+Menchaca;Programando+un+nivel+más+cada+día+⚔️;Java+%7C+C%23+%7C+Lua" alt="Typing SVG" />
@@ -15,23 +15,20 @@
 
 ---
 
-## 🌸 Sobre mí
+##  Sobre mí
 
 ```yaml
 Nombre:      Alejandro Emiliano Nuñez Menchaca
 Usuario:     menchacavr12
 Ubicación:   Ciudad Mante, Tamaulipas 🇲🇽
-Rol:         Desarrollador en formación 💻
-Lenguajes:   Java ☕ · C# 🎮 · Lua 🌙
-Hobbies:     Anime · Videojuegos · Programar
-Meta:        Subir de nivel cada día ⚔️
+
 ```
 
 > *"Un bug es solo un jefe final que aún no he derrotado."* 🗡️
 
 ---
 
-## ⚔️ Mi arsenal
+## 
 
 <div align="center">
 
@@ -45,7 +42,7 @@ Meta:        Subir de nivel cada día ⚔️
 
 ---
 
-## 📊 Estadísticas de mi aventura
+## 
 
 <div align="center">
 
@@ -60,21 +57,8 @@ Meta:        Subir de nivel cada día ⚔️
 
 ---
 
-## 🎴 Proyectos destacados
 
-<div align="center">
-
-| 🎮 Proyecto | 📝 Descripción | 🛠️ Tecnología |
-|:-----------:|:--------------:|:--------------:|
-| **Proyecto 1** | Descripción corta aquí | Java |
-| **Proyecto 2** | Descripción corta aquí | C# |
-| **Proyecto 3** | Descripción corta aquí | Lua |
-
-</div>
-
----
-
-## 📫 Contacto
+## Contacto
 
 <div align="center">
 
