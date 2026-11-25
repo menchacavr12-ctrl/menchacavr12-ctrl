@@ -3,10 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Alejandro%20Emiliano&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=" width="100%" />
 
-<!-- Texto animado -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=FF79C6&center=true&vCenter=true&width=620&lines=%C2%A1Konnichiwa!+(%E3%83%8E%E2%97%95%E3%83%AF%E2%97%95)%E3%83%8E*:%EF%BD%A5%EF%BE%9F%E2%9C%A7;Soy+Alejandro+Emiliano+Nu%C3%B1ez+Menchaca;Programando+un+nivel+m%C3%A1s+cada+d%C3%ADa+%E2%9A%94%EF%B8%8F;Java+%7C+C%23+%7C+Lua" alt="Typing SVG" />
-
-<br><br>
 
 <!-- Imagen o GIF principal en tu carpeta /assets -->
 <img src="https://raw.githubusercontent.com/menchacavr12/menchacavr12/main/assets/banner-preview.gif" width="420" alt="Banner Preview" />
@@ -18,14 +14,14 @@
 ---
 
 <!-- ═══════════ SECCIÓN DE 3 CARDS ═══════════ -->
-<h2 align="center"> Destacados</h2>
+
 <br>
 
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
       <img src="https://raw.githubusercontent.com/menchacavr12/menchacavr12/main/assets/card-1.png" width="100%" alt="Card 1" />
-      <h3>☕ Java</h3>
+      <h3> Java</h3>
       <p><sub>Lógica, arquitectura y proyectos backend o de escritorio.</sub></p>
     </td>
     <td align="center" valign="top" width="33%">
