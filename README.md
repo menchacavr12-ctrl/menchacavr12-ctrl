@@ -5,7 +5,7 @@
 
 
 <!-- Imagen o GIF principal en tu carpeta /assets -->
-<img src="https://raw.githubusercontent.com/menchacavr12/menchacavr12/main/assets/uu.png" width="420" alt="Banner Preview" />
+<img src="https://raw.githubusercontent.com/menchacavr12-ctrl/menchacavr12-ctrl/main/assets/uu.png" width="420" alt="Banner Preview" />
 
 </div>
 
