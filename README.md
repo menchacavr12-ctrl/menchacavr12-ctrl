@@ -20,7 +20,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
-      <img src=../assets/card-1.png" width="100%" alt="Card 1" />
+      <img src=/assets/card-1.png" width="100%" alt="Card 1" />
       <h3> Java</h3>
       <p><sub>Lógica, arquitectura y proyectos backend o de escritorio.</sub></p>
     </td>
