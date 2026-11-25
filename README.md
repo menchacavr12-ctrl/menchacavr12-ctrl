@@ -26,13 +26,11 @@
     </td>
     <td align="center" valign="top" width="33%">
       <img src="https://raw.githubusercontent.com/menchacavr12-ctrl/menchacavr12-ctrl/main/assets/card2.jpg" width="100%" alt="Card 2" />
-      <h3>ME GUSTAN ASI PAYASITAS</h3>
-      <p><sub>Desarrollo de aplicaciones y mecánicas interactivas.</sub></p>
+      <h3>ME GUSTAN ASI PAYASITAS</h3>  
     </td>
     <td align="center" valign="top" width="33%">
       <img src="https://raw.githubusercontent.com/menchacavr12-ctrl/menchacavr12-ctrl/main/assets/hola.gif" width="100%" alt="Card 3" />
-      <h3></h3>
-      
+      <h3></h3> 
     </td>
   </tr>
 </table>
@@ -54,7 +52,6 @@
       <a href="https://www.youtube.com/watch?v=TU_VIDEO_ID_YOUTUBE" target="_blank">
         <img src="https://raw.githubusercontent.com/menchacavr12/menchacavr12/main/assets/yt-thumb.png" width="100%" alt="Ver video en YouTube" />
       </a>
-      <p><sub><b>Título de tu video de YouTube</b><br>Breve descripción del video.</sub></p>
     </td>
     <!-- Columna 2: Formato TikTok / Short (9:16) -->
     <td align="center" valign="top" width="45%">
@@ -62,7 +59,6 @@
       <a href="https://www.tiktok.com/@TU_USUARIO/video/TU_VIDEO_ID_TIKTOK" target="_blank">
         <img src="https://raw.githubusercontent.com/menchacavr12/menchacavr12/main/assets/tiktok-thumb.png" width="65%" alt="Ver video en TikTok" />
       </a>
-      <p><sub><b>Título de tu TikTok</b><br>Clip rápido o tip.</sub></p>
     </td>
   </tr>
 </table>
