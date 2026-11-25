@@ -20,18 +20,18 @@
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
-      <img src=/assets/card-1.png" width="100%" alt="Card 1" />
-      <h3> Java</h3>
+      <img src="https://raw.githubusercontent.com/menchacavr12-ctrl/menchacavr12-ctrl/main/assets/card1.jpg" width="100%" alt="Card 1" />
+      <h3>☕ Java</h3>
       <p><sub>Lógica, arquitectura y proyectos backend o de escritorio.</sub></p>
     </td>
     <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/menchacavr12/menchacavr12/main/assets/card-2.png" width="100%" alt="Card 2" />
-      <h3> C#</h3>
+      <img src="https://raw.githubusercontent.com/menchacavr12-ctrl/menchacavr12-ctrl/main/assets/card-2.png" width="100%" alt="Card 2" />
+      <h3>🎮 C#</h3>
       <p><sub>Desarrollo de aplicaciones y mecánicas interactivas.</sub></p>
     </td>
     <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/menchacavr12/menchacavr12/main/assets/card-3.png" width="100%" alt="Card 3" />
-      <h3> Lua</h3>
+      <img src="https://raw.githubusercontent.com/menchacavr12-ctrl/menchacavr12-ctrl/main/assets/card-3.png" width="100%" alt="Card 3" />
+      <h3>🌙 Lua</h3>
       <p><sub>Scripting rápido, automatización y personalización.</sub></p>
     </td>
   </tr>
